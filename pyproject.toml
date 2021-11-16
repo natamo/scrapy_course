@@ -8,6 +8,10 @@ authors = ["Monica Nataly <nata.moonk@gmail.com>"]
 python = "^3.9"
 Scrapy = "^2.5.1"
 ipython = "^7.28.0"
+selenium = "^4.0.0"
+openpyxl = "^3.0.9"
+Pillow = "^8.4.0"
+mysqlclient = "^2.0.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
