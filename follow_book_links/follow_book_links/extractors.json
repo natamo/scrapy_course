@@ -1,0 +1,5 @@
+{
+    "type": "xpath",
+    "field":"title",
+    "selector": "//*[@id=\"content_inner\"]/article//h1/text()"
+}
